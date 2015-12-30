@@ -1,3 +1,8 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Allows you to organise your files in one place.
+How can you use the staging area to make sure you have one commit per logical change?
+commit one group of changes at a time.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Bug fixes, experimental features.
