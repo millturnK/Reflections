@@ -9,3 +9,6 @@ Bug fixes, experimental features.
 
 How do the diagrams help you visualize the branch structure?
 See how they have deviated and any unreachable changes
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do
+The head changes and all the commits are combined. Shows what commits were picked up in the merge.
