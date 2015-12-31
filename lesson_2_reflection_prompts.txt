@@ -12,3 +12,6 @@ See how they have deviated and any unreachable changes
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do
 The head changes and all the commits are combined. Shows what commits were picked up in the merge.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Non-onflicting changes can be more quickly automatically merged. Need human intelligence to resolve conflicts.
