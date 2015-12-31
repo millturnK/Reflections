@@ -6,3 +6,6 @@ commit one group of changes at a time.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Bug fixes, experimental features.
+
+How do the diagrams help you visualize the branch structure?
+See how they have deviated and any unreachable changes
